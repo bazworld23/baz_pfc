@@ -1,0 +1,120 @@
+{
+  "nav": { "pillows": "Pillows", "yachts": "Yachts", "business": "Solutions for Business", "contact": "Contact",
+           "sunbeds": "Sunbeds", "sofa": "Sofa", "chair": "Chair" },
+  "seo": { "brand": "Pillow & Fabric Co." },
+  
+  "home": {
+    "heroTop": "BAZ is here to make some",
+    "heroBottom": "BUZZ in your space",
+    "heroAlt": "Luxury textiles and pillows",
+    "heroDesc": "We craft cushions, repair furniture, and create custom furniture constructions for residential and professional spaces. Explore our services and projects.",
+    "clientsTitle": "Our Clients"
+  },
+
+
+  "sofa": {
+    "title": "Luxury Pillows for Sofas",
+    "description": "We manufacture sofa cushions tailored to your space, with options in materials, fillings, and fabrics for comfort and durability.",
+    "bullets": [
+      "Manufacture or replacement of cushions in any size",
+      "Wide range of fillings (foam, down, etc.)",
+      "Removable, zippered covers",
+      "High-durability fabrics for everyday use",
+      "Custom patterns or stitching available"
+    ]
+  },
+  "business": {
+    "title": "Solutions for Businesses",
+    "description": "We provide specialized manufacturing and services for professionals and organizations seeking high-quality, tailored solutions in cushions and fabrics. From hospitality to marine, we adapt to the needs of each project.",
+    "bullets": [
+      "Solutions for hotels, restaurants, cafés, and hospitality venues",
+      "Collaborations with architects and interior designers for custom applications",
+      "Manufacture and refurbishment for commercial areas, waiting rooms, and lobbies",
+      "Project support for shipyards and luxury yacht builders",
+      "Suitable solutions for medical spaces (antimicrobial, washable materials)",
+      "Services for furniture and equipment rental companies",
+      "Design proposals, sampling, and study support from project inception"
+    ],
+    "images": [
+      { "src": "/services/business/business-1.jpg", "alt": "Project kickoff" }
+    ]
+  },
+  "chair": {
+    "title": "Luxury Pillows for Chairs",
+    "description": "We manufacture or refresh chair cushions for indoor and outdoor spaces, combining comfort, durability, and aesthetics tailored to your style.",
+    "bullets": [
+      "Manufacture in any shape or size (square, round, etc.)",
+      "Waterproof or indoor fabrics in many colors and textures",
+      "Reinforced foam for everyday use",
+      "Option to add tie straps for stability",
+      "Removable, zippered covers for easy cleaning"
+    ],
+    "images": [
+      { "src": "/services/chair/chair-1.jpg", "alt": "Main chair" },
+      { "src": "/services/chair/chair-2.jpg", "alt": "Chair" },
+      { "src": "/services/chair/chair-3.jpg", "alt": "Chair" }
+    ]
+  },
+  "sunbed": {
+    "title": "Luxury Sunbeds",
+    "description": "We craft and refurbish sunbed cushions in any size and design, using high-durability materials.",
+    "bullets": [
+      "Outdoor fabrics that are waterproof and stain-resistant",
+      "Manufacture in any dimension or shape",
+      "Wide variety of patterns and colors",
+      "Choice of high-resilience foam for comfort and durability",
+      "Ideal for pools, hotels, and seaside spaces"
+    ],
+    "images": [
+      { "src": "/services/sunbed/sunbed-1.jpg", "alt": "Main sunbed" },
+      { "src": "/services/sunbed/sunbed-2.jpg", "alt": "Sunbed" },
+      { "src": "/services/sunbed/sunbed-3.jpg", "alt": "Sunbed" }
+    ]
+  },
+  "yachts": {
+    "title": "Solutions for Luxury Yachts",
+    "description": "We specialize in solutions for luxury vessels. We manufacture and refurbish interior and exterior cushions and upholstery using high-spec, premium materials.",
+    "bullets": [
+      "Manufacture & repair of mattresses and seat/back cushions",
+      "IMO-certified foams for marine use, flame-retardant and Dryflex options",
+      "Outdoor fabrics that are waterproof, stain-resistant, and UV-resistant",
+      "Interior cladding with marine-grade fabrics or leather",
+      "Removable, zippered covers for easy maintenance",
+      "Custom design and fit based on the yacht’s needs and geometry",
+      "Protective covers for cushions and surfaces"
+    ],
+    "images": [
+      { "src": "/services/yachts/yacht-1.jpg", "alt": "Main yacht" },
+      { "src": "/services/yachts/yacht-2.jpg", "alt": "Yacht" }
+    ]
+  },
+  
+  "contact": {
+    "title": "Contact Us",
+    "intro": "Need help or have questions? We are here to provide you with the assistance you need. Whether it's about our services, support, or partnership inquiries, we're here to help. Reach out to us via social media, email, or phone for a prompt response.",
+    "address": "Andreadaki 24, Livadia, Greece",
+    "email": "bazworld23@gmail.com",
+    "phone": "+30 6989869779",
+    "instagram": "@baz_pf.construction_"
+  },
+
+
+  
+  "footer": {
+    "tagline": "BAZ is here to make some BUZZ in your space",
+    "contact": "Contact",
+    "address1": "Andreadaki 24",
+    "address2": "Livadia, Greece",
+    "phone": "Phone: +30 6989869779",
+    "email": "Email: bazworld23@gmail.com",
+    "links": "Quick Links",
+    "home": "Home",
+    "yachts": "Yachts",
+    "business": "Business Solutions",
+    "contactLink": "Contact",
+    "follow": "Follow Us",
+    "rights": "All rights reserved."
+  }
+
+
+}
