@@ -12,7 +12,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale } = await params
   const base = 'https://example.com'
 
-  const title = locale === 'en' ? 'Projects' : 'Έργα'
+  const title = locale === 'en' ? 'Projects' : 'Projects'
   const description = locale === 'en' ? 'Our selected projects and clients' : 'Επιλεγμένα έργα και πελάτες'
 
   return {

@@ -27,12 +27,12 @@ const NAV = {
     subSlugs: { Sunbeds: '/sun-bed', Sofa: '/sofa', Chair: '/chair' },
   },
   el: {
-    main: ['Μαξιλάρια', 'Σκάφη', 'Λύσεις για Επιχειρήσεις', 'Έργα', 'Επικοινωνία'],
+    main: ['Μαξιλάρια', 'Σκάφη', 'Λύσεις για Επιχειρήσεις', 'Projects', 'Επικοινωνία'],
     sub: ['Ξαπλώστρες', 'Καναπές', 'Καρέκλα'],
     slugs: {
       'Μαξιλάρια': '/pillows',
       'Σκάφη': '/yachts',
-      'Έργα': '/projects',
+      'Projects': '/projects',
       'Λύσεις για Επιχειρήσεις': '/business-solutions',
       'Επικοινωνία': '/contact',
     },

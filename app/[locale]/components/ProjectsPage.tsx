@@ -10,7 +10,7 @@ export default function ProjectsPage() {
 
   return (
     <div className="max-w-7xl mx-auto px-6 py-12">
-      <h2 className="text-3xl font-light text-[#4d4d4f] mb-8">{isEN ? 'Projects' : 'Έργα'}</h2>
+      <h2 className="text-3xl font-light text-[#4d4d4f] mb-8">{isEN ? 'Projects' : 'Projects'}</h2>
 
       <section className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-stretch">
         {/* Left column: text, image, caption */}
