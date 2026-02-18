@@ -33,6 +33,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-export default async function ProjectsIndexPage({ params }: Props) {
+export default async function ProjectsIndexPage() {
   return <ProjectsPage />
 }
