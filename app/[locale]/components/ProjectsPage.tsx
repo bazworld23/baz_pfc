@@ -201,14 +201,14 @@ export default function ProjectsPage() {
           <div className="">
             <img src="/services/projects/14.jpg" alt="Project 14" className="w-full rounded-md" />
           </div>
-          <div className="text-md text-[#6b6b6d] font-light">{isEN ? 'Construction of pillows for luxury studio apartments' : 'Κατασκευή μαξιλαριών για luxury studio apartments'}</div>
+          <div className="text-md text-[#6b6b6d] font-light">{isEN ? 'Foam sunbed construction' : 'Κατασκευή ξαπλώστρας από αφρολέξ'}</div>
         </div>
 
         <div className="h-full flex flex-col">
           <div className="h-full w-full">
             <img src="/services/projects/15.jpg" alt="Project 15" className="w-full h-full rounded-md shadow-sm" />
           </div>
-          <div className="text-md text-[#6b6b6d] font-light mt-auto">{isEN ? 'Construction of pillows for luxury studio apartments' : 'Κατασκευή μαξιλαριών για luxury studio apartments'}</div>
+          <div className="text-md text-[#6b6b6d] font-light mt-auto">{isEN ? 'Construction of a leather panel for wardrobe door cladding' : 'Κατασκευή δερμάτινου panel για επένδυση πόρτας ντουλάπας'}</div>
         </div>
       </section>
 
