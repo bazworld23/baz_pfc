@@ -35,7 +35,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function ProjectsIndexPage({ params }: Props) {
   const { locale } = await params
-  const dict = await getDictionary(locale)
 
 
   return <ProjectsPage />
