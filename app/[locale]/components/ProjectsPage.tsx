@@ -47,7 +47,7 @@ export default function ProjectsPage() {
           <div className="mb-2">
             <img src="/services/projects/3.jpg" alt="Project 3" className="w-full rounded-md" />
           </div>
-          <div className="text-md text-[#6b6b6d] font-light">{isEN ? 'Construction of pillows for luxury studio apartments' : 'Κατασκευή μαξιλαριών για luxury studo plates'}</div>
+          <div className="text-md text-[#6b6b6d] font-light">{isEN ? 'Construction of pillows for luxury studio apartments' : 'Κατασκευή μαξιλαριών για luxury studio plates'}</div>
         </div>
 
         <div className="h-full flex flex-col">
