@@ -1,6 +1,6 @@
 {
   "nav": { "pillows": "Pillows", "yachts": "Yachts", "business": "Solutions for Business", "contact": "Contact",
-           "sunbeds": "Sunbeds", "sofa": "Sofa", "chair": "Chair" },
+           "sunbeds": "Sunbeds", "sofa": "Sofa", "chair": "Chair", "projects": "Projects" },
   "seo": { "brand": "Pillow & Fabric Co." },
   
   "home": {
@@ -86,6 +86,17 @@
     "images": [
       { "src": "/services/yachts/yacht-1.jpg", "alt": "Main yacht" },
       { "src": "/services/yachts/yacht-2.jpg", "alt": "Yacht" }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Coffee Lab, recognized in Greece and abroad, entrusted us with the manufacture and installation of seating and upholstery for their store.\n\nCOCO-MAT Hotels commissioned us to produce furniture and cushions for hospitality and common areas. Additionally, we collaborate on NATUZZI projects in Greece, undertaking the manufacture and repair of high-spec furniture.\n\nWe have also completed works for luxury yachts, providing upholstery and installations for both interior and exterior areas.",
+    "bullets": [
+      "Custom-made furniture and cushion manufacturing",
+      "Refurbishment and repair for commercial and residential projects",
+      "On-site measurement and custom fitting",
+      "High-performance materials for outdoor and marine use",
+      "Project support from design through installation"
     ]
   },
   
