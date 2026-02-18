@@ -37,7 +37,6 @@ export default async function ProjectsIndexPage({ params }: Props) {
   const { locale } = await params
   const dict = await getDictionary(locale)
 
-  const p = (dict as { projects: { title: string; description: string; bullets: string[] } }).projects
 
   return <ProjectsPage />
 }
