@@ -1,5 +1,5 @@
 import ProjectsPage from '../components/ProjectsPage'
-import { getDictionary, type Locale, locales } from '@/lib/i18n'
+import { type Locale, locales } from '@/lib/i18n'
 import type { Metadata } from 'next'
 
 type Props = { params: Promise<{ locale: Locale }> }
@@ -34,8 +34,5 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function ProjectsIndexPage({ params }: Props) {
-  const { locale } = await params
-
-
   return <ProjectsPage />
 }
