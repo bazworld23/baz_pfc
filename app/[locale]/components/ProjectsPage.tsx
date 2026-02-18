@@ -3,7 +3,7 @@
 
 import { useParams } from 'next/navigation'
 
-export default function ProjectsPage({ sections }: { sections?: any }) {
+export default function ProjectsPage() {
   const params = useParams() as { locale?: string } | undefined
   const locale = params?.locale || 'en'
   const isEN = locale === 'en'
