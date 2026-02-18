@@ -90,5 +90,5 @@ export default async function ProjectsIndexPage({ params }: Props) {
     },
   ]
 
-  return <ProjectsPage sections={sections} />
+  return <ProjectsPage />
 }
