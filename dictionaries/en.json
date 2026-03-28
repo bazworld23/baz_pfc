@@ -1,5 +1,5 @@
 {
-  "nav": { "pillows": "Pillows", "yachts": "Yachts", "business": "Solutions for Business", "contact": "Contact",
+  "nav": { "pillows": "Pillows", "poufs": "Poufs", "yachts": "Yachts", "business": "Solutions for Business", "contact": "Contact",
            "sunbeds": "Sunbeds", "sofa": "Sofa", "chair": "Chair", "projects": "Projects" },
   "seo": { "brand": "Pillow & Fabric Co." },
   
@@ -69,6 +69,27 @@
       { "src": "/services/sunbed/sunbed-1.jpg", "alt": "Main sunbed" },
       { "src": "/services/sunbed/sunbed-2.jpg", "alt": "Sunbed" },
       { "src": "/services/sunbed/sunbed-3.jpg", "alt": "Sunbed" }
+    ]
+  },
+  "poufs": {
+    "title": "Poufs",
+    "intro": "All poufs can be produced with specifications for indoor or outdoor use, with fabrics of your choice and tailored solutions.",
+    "categories": ["Seating", "Sunbeds", "Floor Cushions"],
+    "items": [
+      { "key": "foxy", "name": "Foxy", "dimension": "Dimension: 120 x 90 x 30cm" },
+      { "key": "dori", "name": "Dori", "dimension": "Dimension: 100 x 70 x 75cm" },
+      { "key": "ciao", "name": "Ciao", "dimension": "Dimension: 100 x 70 x 75cm" },
+      { "key": "eve", "name": "Eve", "dimension": "Dimension: 70 x 40 x 40cm" },
+      { "key": "bigFoxy", "name": "Big Foxy", "dimension": "Dimension: 160 x 80 x 30cm" },
+      { "key": "mediterraneo", "name": "Mediterraneo", "dimension": "Dimension: 180 x 90 x 38cm" },
+      { "key": "eveLong", "name": "Eve", "dimension": "Dimension: 100 x 40 x 40cm" },
+      { "key": "cloud", "name": "Cloud" },
+      { "key": "ocean", "name": "Ocean", "dimension": "Dimension: 180 x 80 x 35cm" },
+      { "key": "stuzi", "name": "Stuzi" },
+      { "key": "mare", "name": "Mare", "dimension": "Dimension: 145 x 145cm" },
+      { "key": "cube", "name": "Cube", "dimension": "Dimension: 60 x 60 x 40cm" },
+      { "key": "bellino", "name": "Bellino", "dimension": "Dimension: Φ 120cm" },
+      { "key": "bigBoy", "name": "Big Boy", "dimension": "Dimension: Φ 120cm" }
     ]
   },
   "yachts": {

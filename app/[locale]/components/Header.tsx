@@ -14,11 +14,12 @@ type Props = {
 
 const NAV = {
   en: {
-    main: ['Pillows', 'Yachts', 'Solutions for Business', 'Projects', 'Contact'],
+    main: ['Pillows', 'Poufs', 'Yachts', 'Solutions for Business', 'Projects', 'Contact'],
     sub: ['Sunbeds', 'Sofa', 'Chair'],
     slugs: {
       // slugs WITHOUT locale prefix
       Pillows: '/pillows',
+      Poufs: '/poufs',
       Yachts: '/yachts',
       Projects: '/projects',
       'Solutions for Business': '/business-solutions',
@@ -27,10 +28,11 @@ const NAV = {
     subSlugs: { Sunbeds: '/sun-bed', Sofa: '/sofa', Chair: '/chair' },
   },
   el: {
-    main: ['Μαξιλάρια', 'Σκάφη', 'Λύσεις για Επιχειρήσεις', 'Projects', 'Επικοινωνία'],
+    main: ['Μαξιλάρια', 'Πουφ', 'Σκάφη', 'Λύσεις για Επιχειρήσεις', 'Projects', 'Επικοινωνία'],
     sub: ['Ξαπλώστρες', 'Καναπές', 'Καρέκλα'],
     slugs: {
       'Μαξιλάρια': '/pillows',
+      'Πουφ': '/poufs',
       'Σκάφη': '/yachts',
       'Projects': '/projects',
       'Λύσεις για Επιχειρήσεις': '/business-solutions',

@@ -1,5 +1,5 @@
 {
-  "nav": { "pillows": "Μαξιλάρια", "yachts": "Σκάφη", "business": "Λύσεις για Επιχειρήσεις", "contact": "Επικοινωνία",
+  "nav": { "pillows": "Μαξιλάρια", "poufs": "Πουφ", "yachts": "Σκάφη", "business": "Λύσεις για Επιχειρήσεις", "contact": "Επικοινωνία",
            "sunbeds": "Ξαπλώστρες", "sofa": "Καναπές", "chair": "Καρέκλα", "projects": "Έργα" },
   "seo": { "brand": "Pillow & Fabric Co." },
 
@@ -69,6 +69,27 @@
       { "src": "/services/sunbed/sunbed-1.jpg", "alt": "Κύρια ξαπλώστρα" },
       { "src": "/services/sunbed/sunbed-2.jpg", "alt": "Ξαπλώστρα" },
       { "src": "/services/sunbed/sunbed-3.jpg", "alt": "Ξαπλώστρα" }
+    ]
+  },
+  "poufs": {
+    "title": "Πουφ",
+    "intro": "Όλα τα πουφ μπορούν να κατασκευαστούν με προδιαγραφές για εσωτερικό ή εξωτερικό χώρο, με υφάσματα της επιλογής σας και εξατομικευμένες λύσεις.",
+    "categories": ["Καθιστικά", "Ξαπλώστρες", "Μαξιλάρες"],
+    "items": [
+      { "key": "foxy", "name": "Foxy", "dimension": "Διάσταση: 120 x 90 x 30cm" },
+      { "key": "dori", "name": "Dori", "dimension": "Διάσταση: 100 x 70 x 75cm" },
+      { "key": "ciao", "name": "Ciao", "dimension": "Διάσταση: 100 x 70 x 75cm" },
+      { "key": "eve", "name": "Eve", "dimension": "Διάσταση: 70 x 40 x 40cm" },
+      { "key": "bigFoxy", "name": "Big Foxy", "dimension": "Διάσταση: 160 x 80 x 30cm" },
+      { "key": "mediterraneo", "name": "Mediterraneo", "dimension": "Διάσταση: 180 x 90 x 38cm" },
+      { "key": "eveLong", "name": "Eve", "dimension": "Διάσταση: 100 x 40 x 40cm" },
+      { "key": "cloud", "name": "Cloud" },
+      { "key": "ocean", "name": "Ocean", "dimension": "Διάσταση: 180 x 80 x 35cm" },
+      { "key": "stuzi", "name": "Stuzi" },
+      { "key": "mare", "name": "Mare", "dimension": "Διάσταση: 145 x 145cm" },
+      { "key": "cube", "name": "Cube", "dimension": "Διάσταση: 60 x 60 x 40cm" },
+      { "key": "bellino", "name": "Bellino", "dimension": "Διάσταση: Φ 120cm" },
+      { "key": "bigBoy", "name": "Big Boy", "dimension": "Διάσταση: Φ 120cm" }
     ]
   },
   "yachts": {
